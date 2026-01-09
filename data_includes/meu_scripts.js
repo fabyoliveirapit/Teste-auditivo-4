@@ -175,26 +175,26 @@ newTrial("Questionario",
 
     // Usando newHtml para criar as checkboxes com as novas palavras
     newHtml("lembranca_palavras", `
-        <label><input type="checkbox" name="Veterinário" value="Veterinário"> Veterinário</label><br>
-        <label><input type="checkbox" name="Enchente" value="Enchente"> Enchente</label><br>
-        <label><input type="checkbox" name="Ração" value="Ração"> Ração</label><br>
-        <label><input type="checkbox" name="Farmácia" value="Farmácia"> Farmácia</label><br>
-        <label><input type="checkbox" name="Fiscal" value="Fiscal"> Fiscal</label><br>
-        <label><input type="checkbox" name="Bicho" value="Bicho"> Bicho</label><br>
-        <label><input type="checkbox" name="Brigadeiro" value="Brigadeiro"> Brigadeiro</label><br>
-        <label><input type="checkbox" name="Educação" value="Educação"> Educação</label><br>
+        <label><input type="checkbox" name="Viagem" value="Viagem"> Viagem</label><br>
+        <label><input type="checkbox" name="Ajuda" value="Ajuda"> Ajuda</label><br>
+        <label><input type="checkbox" name="Vergonha" value="Vergonha"> Vergonha</label><br>
+        <label><input type="checkbox" name="Natal" value="Natal"> Natal</label><br>
+        <label><input type="checkbox" name="Praça" value="Praça"> Praça</label><br>
+        <label><input type="checkbox" name="Museu" value="Museu"> Museu</label><br>
+        <label><input type="checkbox" name="Encontro" value="Encontro"> Encontro</label><br>
+        <label><input type="checkbox" name="Vaso" value="Vaso"> Vaso</label><br>
+        <label><input type="checkbox" name="Igreja" value="Igreja"> Igreja</label><br>
+        <label><input type="checkbox" name="Barco" value="Barco"> Barco</label><br>
+        <label><input type="checkbox" name="Sogra" value="Sogra"> Sogra</label><br>
+        <label><input type="checkbox" name="Jardineiro" value="Jardineiro"> Jardineiro</label><br>
+        <label><input type="checkbox" name="Asilo" value="Asilo"> Asilo</label><br>
+        <label><input type="checkbox" name="Feira" value="Feira"> Feira</label><br>
+        <label><input type="checkbox" name="Raiva" value="Raiva"> Raiva</label><br>
+        <label><input type="checkbox" name="Clínica" value="Clínica"> Clínica</label><br>
+        <label><input type="checkbox" name="Gerente" value="Gerente"> Gerente</label><br>
+        <label><input type="checkbox" name="Desfile" value="Desfile"> Desfile</label><br>
         <label><input type="checkbox" name="Festa" value="Festa"> Festa</label><br>
-        <label><input type="checkbox" name="Bar" value="Bar"> Bar</label><br>
-        <label><input type="checkbox" name="Cafuné" value="Cafuné"> Cafuné</label><br>
-        <label><input type="checkbox" name="Aniversariante" value="Aniversariante"> Aniversariante</label><br>
-        <label><input type="checkbox" name="Poeira" value="Poeira"> Poeira</label><br>
-        <label><input type="checkbox" name="Estacionamento" value="Estacionamento"> Estacionamento</label><br>
-        <label><input type="checkbox" name="Trança" value="Trança"> Trança</label><br>
-        <label><input type="checkbox" name="Banheiro" value="Banheiro"> Banheiro</label><br>
-        <label><input type="checkbox" name="Velório" value="Velório"> Velório</label><br>
-        <label><input type="checkbox" name="Funcionário" value="Funcionário"> Funcionário</label><br>
-        <label><input type="checkbox" name="Zoológico" value="Zoológico"> Zoológico</label><br>
-        <label><input type="checkbox" name="Pneu" value="Pneu"> Pneu</label><br>
+        <label><input type="checkbox" name="Sítio" value="Sítio"> Sítio</label><br>
     `)
     .css({"text-align": "left", "margin-left": "auto", "margin-right": "auto", "width": "fit-content"}) // Centraliza o bloco de checkboxes
     .print()
